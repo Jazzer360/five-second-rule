@@ -1,0 +1,4 @@
+## Interface: 11302
+## Title: FiveSecondRule
+## Author: Derek Jass
+## Version: 0.1
